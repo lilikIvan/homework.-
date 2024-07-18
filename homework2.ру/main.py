@@ -1,9 +1,7 @@
-friend_name = "Kirill"
-money_count = "300 dollars"
-anotherFrienName = "Alexey"
-moneyCount = "300 dollars"
-cost_car = '600 dolars'
-name = "car"
-name_car = "car,"
-a = "works"
-print (friend_name, "и", anotherFrienName, "скинулись на", name, 'со стоимостью в', cost_car, "по", money_count, "=", moneyCount, "для покупки новой", name_car, "для совместной", a)
+course_name = 'Python,'
+The_number_of_household_chores_completed = '12,'
+NumberOfHoursSpent = '1.5,'
+a = 12
+b = 1.5
+TimeForOneTask = b/a
+print(course_name, 'всего задач:', The_number_of_household_chores_completed, 'затрачено часов:', NumberOfHoursSpent, 'среднее время выполнения', TimeForOneTask)

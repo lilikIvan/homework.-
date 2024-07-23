@@ -2,7 +2,7 @@ name = 'Ivan'
 print (name)
 age = 21
 print (age)
-age_two = 18
-print (age_two)
-is_student = age > age_two
+day = 22
+age = age + day
+is_student = age > day
 print (is_student)

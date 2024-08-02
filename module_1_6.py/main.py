@@ -3,7 +3,7 @@ print(my_dict)
 print(my_dict.get('Ivan'), my_dict.get('Karina'))
 my_dict ['Kirill'] = 2003
 my_dict ['Anna'] = 1996
-del my_dict ['Ivan']
+my_dict.pop('Ivan')
 print (my_dict)
 
 my_set = {1, 2, 3, 1, 2, 3,}

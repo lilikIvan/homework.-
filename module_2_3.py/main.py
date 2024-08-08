@@ -4,7 +4,6 @@ while index < len(myList):
     if myList[index] > 0:
         print(myList[index])
         index += 1
-        continue
 
     if myList[index] == 0:
         index += 1
